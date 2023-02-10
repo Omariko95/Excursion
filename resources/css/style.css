@@ -18,7 +18,7 @@ body {
     font-size: 16px;
 }
 
-#vid1 {
+.vid1 {
     background-image: url(/resources/videos/excursion.mp4);
     background-repeat : no-repeat;
     width: 30px;
@@ -26,12 +26,12 @@ body {
 }
 
 
-#img2 { 
+.img2 { 
     padding: 25 px;
 }
 
 
-#img1 {
+.img1 {
     padding: 25 px;
 
 }
