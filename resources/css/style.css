@@ -1,0 +1,46 @@
+
+
+title {
+    font-family: 'verdana';
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+}
+
+body {
+    background-color: black;
+    text-align: center;
+}
+
+.coming_soon { 
+    color: aquamarine;
+    font-size: 16px;
+}
+
+#img1 { 
+    background-image: url(/resources/images/phone.webp);
+    background-repeat: no-repeat;
+    width: 50px;
+    height: 100px;
+}
+
+
+#img2 {
+    background-image: url(/resources/images/camp.webp);
+    background-repeat: no-repeat;
+    width: 100px;
+    height: 75px;
+}
+
+.travel_guide h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 300;
+    font-size: 42px;
+}
+
+.travel_guide h2{ 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 21px;
+    color: gray;
+}
