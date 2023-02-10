@@ -27,18 +27,13 @@ body {
 
 
 #img2 { 
-    background-image: url(/resources/images/phone.webp);
-    background-repeat: no-repeat;
-    width: 25px;
-    height: 50px;
+    padding: 25 px;
 }
 
 
 #img1 {
-    background-image: url(/resources/images/camp.webp);
-    background-repeat: no-repeat;
-    width: 25px;
-    height: 50px;
+    padding: 25 px;
+
 }
 
 .travel_guide h1{
