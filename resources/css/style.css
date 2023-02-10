@@ -18,7 +18,15 @@ body {
     font-size: 16px;
 }
 
-#img1 { 
+#vid1 {
+    background-image: url(/resources/videos/excursion.mp4);
+    background-repeat : no-repeat;
+    width: 30px;
+    height: 100px;
+}
+
+
+#img2 { 
     background-image: url(/resources/images/phone.webp);
     background-repeat: no-repeat;
     width: 50px;
@@ -26,7 +34,7 @@ body {
 }
 
 
-#img2 {
+#img1 {
     background-image: url(/resources/images/camp.webp);
     background-repeat: no-repeat;
     width: 100px;
