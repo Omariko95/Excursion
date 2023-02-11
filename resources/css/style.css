@@ -3,10 +3,10 @@
 .head {
     font-family: 'verdana';
     font-weight: normal;
-    font-size: 10px;
+    font-size: 100px;
     color: white;
     text-align: center;
-    offset: 30px;
+    top: 30px;
     
 }
 
