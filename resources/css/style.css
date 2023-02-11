@@ -54,6 +54,7 @@ body {
 }
 
 .bot {
-    text-align: right;
+    text-align: end;
     color: gray;
+    bottom: 15px;
 }
